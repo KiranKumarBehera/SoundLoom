@@ -1,8 +1,8 @@
 # SoundLoom: SoundLoom is an analysis project on a Music Store Database. This analysis helps music marketers sell their music efficiently and make their music reach the right audience.
 
 Objectives were:
-> With the help of our projectSOUNDLOOM, we are helping music marketers earn revenue by efficient audience targeting.
-> With the help of our projectSOUNDLOOM, we are helping music enthusiasts, by improving their recommendation system according to their music taste.
+* With the help of our projectSOUNDLOOM, we are helping music marketers earn revenue by efficient audience targeting.
+* With the help of our projectSOUNDLOOM, we are helping music enthusiasts, by improving their recommendation system according to their music taste.
 
 The Queries which were resolved are:
 Q1: Who is the senior most employee based on job title?
